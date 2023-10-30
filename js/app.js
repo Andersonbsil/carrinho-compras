@@ -1,5 +1,6 @@
 let totalGeral;
 limpar();
+
 // PRODUTOS/ VALOR E QUANTIDADE.
 function adicionar() {
 let produto = document.getElementById('produto').value;
